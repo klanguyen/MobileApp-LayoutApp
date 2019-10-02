@@ -1,0 +1,14 @@
+/Users/trinhnguyen/Projects/HW6App/HW6App/obj/Debug/netstandard2.0/HW6App.csprojAssemblyReference.cache
+/Users/trinhnguyen/Projects/HW6App/HW6App/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/trinhnguyen/Projects/HW6App/HW6App/obj/Debug/netstandard2.0/ListView.xaml.g.cs
+/Users/trinhnguyen/Projects/HW6App/HW6App/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/trinhnguyen/Projects/HW6App/HW6App/obj/Debug/netstandard2.0/HW6App.csproj.CoreCompileInputs.cache
+/Users/trinhnguyen/Projects/HW6App/HW6App/obj/Debug/netstandard2.0/HW6App.AssemblyInfoInputs.cache
+/Users/trinhnguyen/Projects/HW6App/HW6App/obj/Debug/netstandard2.0/HW6App.AssemblyInfo.cs
+/Users/trinhnguyen/Projects/HW6App/HW6App/obj/Debug/netstandard2.0/CalculatorGrid.xaml.g.cs
+/Users/trinhnguyen/Projects/HW6App/HW6App/obj/Debug/netstandard2.0/HW6App.dll
+/Users/trinhnguyen/Projects/HW6App/HW6App/obj/Debug/netstandard2.0/HW6App.pdb
+/Users/trinhnguyen/Projects/HW6App/HW6App/bin/Debug/netstandard2.0/HW6App.deps.json
+/Users/trinhnguyen/Projects/HW6App/HW6App/bin/Debug/netstandard2.0/HW6App.dll
+/Users/trinhnguyen/Projects/HW6App/HW6App/bin/Debug/netstandard2.0/HW6App.pdb
+/Users/trinhnguyen/Projects/HW6App/HW6App/obj/Debug/netstandard2.0/XamlC.stamp
